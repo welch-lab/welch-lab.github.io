@@ -1,6 +1,6 @@
 - title: "CytoSimplex: Visualizing Single-cell Fates and Transitions on a Simplex"
   image:
-  authors: Liu J, Wang Y, Li C, Gu Y, Ono N, Welch JD
+  authors: Liu J*, Wang Y*, Li C, Gu Y, Ono N, Welch JD
   link:
     url: https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaf119/8090439
     display: 'Bioinformatics 2025'
