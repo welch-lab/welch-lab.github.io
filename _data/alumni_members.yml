@@ -1,3 +1,13 @@
+- info: Ph.D. in Electrical and Computer Engineering, now Machine Learning Engineer at TikTok
+  list_educ:
+    - B.S. in Electrical and Computer Engineering, University of Illinois - Urbana
+  name: Yichen Gu
+  photo: YichenGu_Resized.png
+- info: Ph.D. in Computational Medicine and Bioinformatics, now Postdoctoral Researcher at Howard Hughes Medical Institute
+  list_educ:
+    - M.S. in Computational Medicine and Bioinformatics, University of Michigan
+  name: Jialin Liu
+  photo: Jialin-Liu.jpeg
 - info: M.S. in Data Science, now data scientist at University of Michigan
   list_educ:
     - M.S. in Bioengineering, Stanford University
