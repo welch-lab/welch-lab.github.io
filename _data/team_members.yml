@@ -27,12 +27,6 @@
   photo: Ghaemmaghami.png
   list_educ:
     - M.S. in Bioinformatics and Molecular Biology, George Washington University
-- email: null
-  info: ECE Ph.D. Candidate
-  list_educ:
-    - B.S. in Electrical and Computer Engineering, University of Illinois - Urbana
-  name: Yichen Gu
-  photo: YichenGu_Resized.png
 - info: Postdoctoral Research Fellow
   list_educ:
     - Ph.D. in Mathematical, Computational, and Systems Biology, University of California
@@ -54,12 +48,6 @@
 - name: Maria Linck
   info: Undergraduate Researcher (Neuroscience)
   photo: marial.jpg
-- email: null
-  info: DCMB Ph.D. Candidate
-  list_educ:
-    - M.S. in Bioinformatics, University of Michigan
-  name: Jialin Liu
-  photo: Jialin-Liu.jpeg
 - email: null
   info: DCMB Ph.D. Candidate (joint with Vibha Lama)
   list_educ:
