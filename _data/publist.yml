@@ -1,3 +1,11 @@
+- title: "PerturbNet predicts single-cell responses to unseen chemical and genetic perturbations"
+  image:
+  authors: Yu H*, Qian W*, Song Y, Welch JD
+  link:
+    url: https://www.embopress.org/doi/full/10.1038/s44320-025-00131-3
+    display: Molecular Systems Biology 2025
+  highlight: 0
+
 - title: "Wnt-directed CXCL12-expressing apical papilla progenitor cells drive tooth root formation"
   image:
   authors: Nagata, Gadhvi GT, Komori T, Arai Y, Manabe H, Ka Yan Chu A, Kaur R, Ali M, Yang Y, Tsutsumi-Arai C, Nakai Y, Matsushita Y, Tokavanich N, Zheng WJ, Welch JD, Ono N, Ono W.
@@ -176,14 +184,6 @@
   link:
     url: https://arxiv.org/abs/2209.00545
     display: arXiv 2022
-  highlight: 0
-
-- title: "PerturbNet predicts single-cell responses to unseen chemical and genetic perturbations"
-  image:
-  authors: Yu H, Welch JD
-  link:
-    url: https://www.biorxiv.org/content/10.1101/2022.07.20.500854v1
-    display: bioRxiv 2022
   highlight: 0
 
 - title: "Bayesian inference of RNA velocity from multi-lineage single-cell data"
