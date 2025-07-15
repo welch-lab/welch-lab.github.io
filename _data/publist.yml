@@ -1,10 +1,10 @@
 - title: "PerturbNet predicts single-cell responses to unseen chemical and genetic perturbations"
-  image:
+  image: perturbnet.png
   authors: Yu H*, Qian W*, Song Y, Welch JD
   link:
     url: https://www.embopress.org/doi/full/10.1038/s44320-025-00131-3
     display: Molecular Systems Biology 2025
-  highlight: 0
+  highlight: 1
 
 - title: "Wnt-directed CXCL12-expressing apical papilla progenitor cells drive tooth root formation"
   image:
