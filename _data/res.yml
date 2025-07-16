@@ -1,6 +1,6 @@
 - title: Single-Cell Multi-Omic Data Integration
   image: online-inmf.png
-  description: In recent papers published in Cell and Nature Biotechnology, we developed LIGER and online iNMF. These approaches allow integration of single-cell transcriptomic, epigenomic and spatial transcriptomic datasets from different single cells.
+  description: In papers published in Cell and Nature Biotechnology, we developed LIGER and online iNMF. These approaches allow integration of single-cell transcriptomic, epigenomic and spatial transcriptomic datasets from different single cells.
   authors: 
   link:
     url: 
@@ -10,7 +10,7 @@
 
 - title: Computational Modeling of Cell Fate Transitions
   image: multivelo.png
-  description: We developed MultiVelo and VeloVAE, approaches for modeling sequential transcriptomic and epigenomic changes in differentiating cells using differential equations.
+  description: We developed MultiVelo, VeloVAE, and TopoVelo--approaches for modeling sequential transcriptomic and epigenomic changes in differentiating cells using differential equations.
   authors: 
   link:
     url: 
@@ -29,8 +29,8 @@
   news2:  
   
 - title: Applications in Stem Cell Differentiation and Reprogramming
-  image: research2.png
-  description: Using the algorithms we have developed, we are investigating stem cell differentiation in mouse bone and human blood cells. We are also interested in cell reprogramming.
+  image: topovelo-eb.png
+  description: Using the algorithms we have developed, we are investigating in vitro systems, including directed differentiation and organoid models.
   authors: 
   link:
     url: 
