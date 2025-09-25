@@ -1,3 +1,6 @@
+- name: Dorzhey Matkhanov
+  info: M.S. in Computational Medicine and Bioinformatics
+  photo: dorzhey.jpg
 - info: Ph.D. in Electrical and Computer Engineering, now Machine Learning Engineer at TikTok
   list_educ:
     - B.S. in Electrical and Computer Engineering, University of Illinois - Urbana
@@ -13,7 +16,6 @@
     - M.S. in Bioengineering, Stanford University
   name: Gretchen Lam
   photo: gl_profile_picture_720.jpg
-- info: M.S. in Biomedical Engineering
   list_educ:
     - B.S. in Genomics and Molecular Genetics, Michigan State University
   name: Jaimee Moline
