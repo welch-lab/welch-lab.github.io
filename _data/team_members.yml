@@ -54,10 +54,6 @@
     - M.S. in Bioinformatics, University of Michigan
   name: Lu Lu
   photo: LuLu-Wang.jpg
-- name: Dorzhey Matkhanov
-  info: Bioinformatics M.S. Student
-  list_educ: ["Bachelors in Business Informatics, HSE University - Moscow"]
-  photo: dorzhey.jpg
 - info: DCMB PhD Candidate
   list_educ:
     - M.S. in Biostatistics, University of Michigan
@@ -88,11 +84,6 @@
     - M.S. in Bioinformatics, University of Michigan
   name: Crystal Wen
   photo: Crystal-Wen.jpg
-- email: null
-  info: Administrative Specialist Associate Healthcare
-  list_educ: []
-  name: Jane Wiesner
-  photo: jane.jpg
 - name: Mingjia Yao
   info: Bioinformatics Ph.D. Student (joint with Sami Barmada)
   list_educ: ["MS in Biostatistics, University of Californa - Los Angeles"]
