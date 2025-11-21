@@ -1,3 +1,10 @@
+- title: "Inferring differential dynamics from multi-lineage, multi-omic, and multi-sample single-cell data with MultiVeloVAE"
+  authors: Li C*, Gu Y*, Virgilio MC, Lee KH, Collins KL, Welch JD
+  link:
+    url: https://www.nature.com/articles/s41467-025-66287-6
+    display: Nature Communications 2025
+  highlight: 0
+
 - title: "Predicting the structural impact of human alternative splicing"
   authors: Song Y, Zhang C, Omenn GS, O’Meara MJ*, Welch JD*
   link:
