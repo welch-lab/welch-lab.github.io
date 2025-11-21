@@ -5,6 +5,13 @@
     display: Nature Communications 2025
   highlight: 0
 
+- title: "VISTA-FISH: Video Imaging, Spatial Transcriptomics, and CRISPR Screening of the Same Cells"
+  authors: Lee KH*, Yao M*, Ghaemmaghami J*, DeLong CJ, Zhao N, Moline J, Sexton J, Barmada SJ+, Welch JD+
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2025.11.03.686351v1
+    display: bioRxiv 2025
+  highlight: 0
+
 - title: "Predicting the structural impact of human alternative splicing"
   authors: Song Y, Zhang C, Omenn GS, O’Meara MJ*, Welch JD*
   link:
