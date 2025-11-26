@@ -1,3 +1,10 @@
+- title: "Molecular effects of transposable element sequences in mammalian cells"
+  authors: Wen MC, Welch JD
+  link:
+    url: https://link.springer.com/article/10.1186/s13059-025-03883-1
+    display: Genome Biology 26, 403 (2025). https://doi.org/10.1186/s13059-025-03883-1
+  highlight: 0
+
 - title: "Inferring differential dynamics from multi-lineage, multi-omic, and multi-sample single-cell data with MultiVeloVAE"
   authors: Li C*, Gu Y*, Virgilio MC, Lee KH, Collins KL, Welch JD
   link:
