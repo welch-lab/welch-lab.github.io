@@ -1,3 +1,10 @@
+- title: "Bayesian inference of RNA velocity incorporating timepoints, lineage bifurcations, and count data"
+  authors: Gu Y, Song Y, Blaauw D, Welch JD
+  link:
+    url: https://doi.org/10.1371/journal.pcbi.1014060
+    display: PLoS Computational Biology 22(3): e1014060 (2026)
+  highlight: 0
+
 - title: "Molecular effects of transposable element sequences in mammalian cells"
   authors: Wen MC, Welch JD
   link:
