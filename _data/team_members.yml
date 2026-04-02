@@ -93,3 +93,8 @@
   email: null
   list_educ: ["M.S. in Toxicology, University of Michigan"]
   photo: headshot_neil.jpeg
+- name: Sumeed Yoyo Manzoor
+  photo: ManzoorSumeed.jpg
+  info: Neuroscience MD-PhD Pre-Candidate
+  list_educ:
+    - B.S. in Molecular Biology, Loyola University Chicago
