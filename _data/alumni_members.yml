@@ -1,3 +1,20 @@
+- name: Chen Li
+  photo: Chen-Li.jpg
+  info: Ph.D. in Computational Medicine and Bioinformatics, now Bioinformatics Scientist at Boston Children's Hospital
+  list_educ:
+    - B.S. in Bioinformatics, University of California - San Diego
+
+- name: Andrew Robbins
+  photo: andrew_robbins.jpg
+  info: Systems Analyst/Bioinformatics M.S. Student, now Research Applications Specialist, University of Michigan Advanced Research Computing
+  list_educ:
+    - B.A. in Biochemistry & Music, Case Western Reserve University
+
+- name: Darian Rashid
+  photo: darian.jpg
+  info: Undergraduate Researcher (Neuroscience)
+  list_educ: []
+
 - info: Ph.D. in Electrical and Computer Engineering, now Machine Learning Engineer at TikTok
   list_educ:
     - B.S. in Electrical and Computer Engineering, University of Illinois - Urbana

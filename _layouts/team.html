@@ -41,7 +41,7 @@ layout: piclay
       <div class="col flex-fill ms-0 ps-0 pe-6">
         <h4>{{ member.name }}</h4>
         <p>
-          <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+          <i>{% if member.duration %}{{ member.duration }} <br>{% endif %}Role: {{ member.info }}</i>
         </p>
       </div>
     </div>
