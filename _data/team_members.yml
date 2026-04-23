@@ -27,6 +27,10 @@
   photo: Ghaemmaghami.png
   list_educ:
     - M.S. in Bioinformatics and Molecular Biology, George Washington University
+- name: Shean Jiang
+  photo: Shean-Jiang.jpg
+  info: AMDP Bioinformatics Program
+  list_educ: []
 - info: Postdoctoral Research Fellow
   list_educ:
     - Ph.D. in Mathematical, Computational, and Systems Biology, University of California
@@ -43,11 +47,24 @@
   info: Undergraduate Researcher (Neuroscience)
   photo: marial.jpg
 - email: null
+  info: Research Assistant Professor
+  list_educ:
+    - Postdoctoral training, University of Michigan
+    - Ph.D. in Stem Cells and Molecular Immunology, University of Nanjing
+    - M.S. in Applied Data Science, University of Michigan
+  name: Liu Liu
+  photo: Liu-Liu.jpg
+- email: null
   info: DCMB Ph.D. Candidate (joint with Vibha Lama)
   list_educ:
     - M.S. in Bioinformatics, University of Michigan
   name: Lu Lu
   photo: LuLu-Wang.jpg
+- name: Sumeed Yoyo Manzoor
+  photo: ManzoorSumeed.jpg
+  info: Neuroscience MD-PhD Pre-Candidate
+  list_educ:
+    - B.S. in Molecular Biology, Loyola University Chicago
 - info: DCMB PhD Candidate
   list_educ:
     - M.S. in Biostatistics, University of Michigan
@@ -78,12 +95,3 @@
   email: null
   list_educ: ["M.S. in Toxicology, University of Michigan"]
   photo: headshot_neil.jpeg
-- name: Sumeed Yoyo Manzoor
-  photo: ManzoorSumeed.jpg
-  info: Neuroscience MD-PhD Pre-Candidate
-  list_educ:
-    - B.S. in Molecular Biology, Loyola University Chicago
-- name: Shean Jiang
-  photo: Shean-Jiang.jpg
-  info: AMDP Bioinformatics Program
-  list_educ: []
