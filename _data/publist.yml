@@ -5,6 +5,14 @@
     display: "Molecular Therapy Oncology, 201215 (2026)"
   highlight: 0
 
+- title: "Single-cell multi-omic analysis of mesenchymal cells reveals molecular signatures and regulators of lung allograft fibrosis"
+  image:
+  authors: Lu L, McLinden AP, Walker NM, Vittal R, Wang Y, Fattahi F, Russell ST, Combs MP, Welch JD*, Lama VN*
+  link:
+    url: https://insight.jci.org/articles/view/196651
+    display: 'JCI Insight 2026'
+  highlight: 0
+
 - title: "Bayesian inference of RNA velocity incorporating timepoints, lineage bifurcations, and count data"
   authors: Gu Y, Song Y, Blaauw D, Welch JD
   link:
@@ -125,14 +133,6 @@
   link:
     url: https://www.nature.com/articles/s41593-024-01806-0
     display: 'Nature Neuroscience 2024'
-  highlight: 0
-
-- title: "Single-cell multi-omic analysis of mesenchymal cells reveals molecular signatures and regulators of lung allograft fibrosis"
-  image:
-  authors: Lu L, McLinden AP, Walker NM, Vittal R, Wang Y, Fattahi F, Russell ST, Combs MP, Welch JD, Lama VN
-  link:
-    url: https://insight.jci.org/articles/view/196651
-    display: 'JCI Insight 2026'
   highlight: 0
 
 - title: "TET2 promotes tumor antigen presentation and T cell IFN-γ, which is enhanced by vitamin C"
