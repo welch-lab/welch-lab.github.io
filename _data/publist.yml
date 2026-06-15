@@ -92,7 +92,7 @@
   description: TopoVelo extends the RNA velocity framework to model single-cell gene expression dynamics of an entire tissue with spatially coupled differential equations. TopoVelo infers the direction of cell migration and differentiation, the degree of spatial cell influence, and morphological changes. We generate Slide-seq data from an in vitro model of human development and use TopoVelo to study the spatial patterns of early differentiation.
   link:
     url: https://www.nature.com/articles/s41587-025-02688-8
-    display: Nature Biotechnology 2025
+    display: Nature Biotechnology 44, 771-782 (2026)
   highlight: 1
 
 - title: "PerturbNet predicts single-cell responses to unseen chemical and genetic perturbations"
