@@ -1,3 +1,13 @@
+- title: "CytoSignal detects locations and dynamics of ligand-receptor signaling at cellular resolution from spatial transcriptomic data"
+  image: cytosignal-ng-cover.png
+  authors: Liu J, Manabe H, Qian W, Orikasa S, Ghaemmaghami J, Wang Y, Gu Y, Ka Yan Chu A, Gadhvi GT, Song Y, McClinden P, Lama VN, Ono N, Welch JD
+  description: CytoSignal infers the locations and dynamics of ligand-receptor signaling at cellular resolution from spatial transcriptomic data. The study maps contact-dependent and diffusible interactions, detects differential signaling across samples, predicts temporal signaling dynamics with VeloCytoSignal, and validates predictions in situ with proximity ligation assays.
+  link:
+    url: https://www.nature.com/articles/s41588-026-02624-9
+    display: Nature Genetics 58, 1396-1408 (2026)
+  highlight: 1
+  news1: Selected as the cover image for the June 2026 issue of Nature Genetics.
+
 - title: "Nuclear Speckles Regulate Splicing During Muscle Stem Cell Activation and Aging"
   authors: Guzman SD, Duran P, Xiao Y, Song Y, Welch JD, He C, Aguilar CA
   link:
@@ -196,14 +206,6 @@
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0925443924002527
     display: Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease, Volume 1870, Issue 6, 2024
-  highlight: 0
-
-- title: "CytoSignal Detects Locations and Dynamics of Ligand-Receptor Signaling at Cellular Resolution from Spatial Transcriptomic Data"
-  image:
-  authors:  Liu J, Manabe H,  Qian W,  Wang Y,  Gu Y, Ka Yan Chu A, Gadhvi G,  Song Y, Ono N,  Welch JD
-  link:
-    url: https://www.biorxiv.org/content/10.1101/2024.03.08.584153v1
-    display: bioRxiv 2024
   highlight: 0
 
 - title: "Endosteal stem cells at the bone-blood interface: A double-edged sword for rapid bone formation"
