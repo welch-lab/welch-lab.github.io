@@ -96,13 +96,14 @@
   highlight: 1
 
 - title: "PerturbNet predicts single-cell responses to unseen chemical and genetic perturbations"
-  image: perturbnet.png
+  image: perturbnet-cover.jpg
   authors: Yu H*, Qian W*, Song Y, Welch JD
   description: PerturbNet is a generative AI model that can predict shifts in cell state—changes in overall gene expression—in response to multiple types of unseen cellular perturbations. PerturbNet uses a flexible framework to “mix and match” neural networks and predict effects of chemical, gene knockdown, gene overexpression, and DNA sequence mutations. Despite being an all-in-one model, PerturbNet shows competitive performance with previous methods tailored to predict either chemical or genetic effects. An in silico screen of all possible single amino acid substitutions in GATA1 identifies candidates likely to modify erythroid cell differentiation.
   link:
-    url: https://www.embopress.org/doi/full/10.1038/s44320-025-00131-3
-    display: Molecular Systems Biology 2025
+    url: https://link.springer.com/article/10.1038/s44320-025-00131-3
+    display: Molecular Systems Biology 21, 960-982 (2025)
   highlight: 1
+  news1: Featured as the cover article for Molecular Systems Biology Volume 21, Issue 8.
 
 - title: "Wnt-directed CXCL12-expressing apical papilla progenitor cells drive tooth root formation"
   image:
