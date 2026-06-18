@@ -27,12 +27,6 @@
   photo: Ghaemmaghami.png
   list_educ:
     - M.S. in Bioinformatics and Molecular Biology, George Washington University
-- name: Johnathan Zhang
-  info: Bioinformatics Ph.D. Student (joint with Marina Pasca di Magliano)
-  list_educ:
-    - Combined M.S./B.A. in Plant Biology, Northwestern University
-    - M.S. in Bioinformatics, Boston University
-  photo: Johnathan-Zhang.jpg
 - name: Shean Jiang
   photo: Shean-Jiang.jpg
   info: AMDP Bioinformatics Program
@@ -96,6 +90,12 @@
   info: Bioinformatics Ph.D. Student (joint with Sami Barmada)
   list_educ: ["MS in Biostatistics, University of Californa - Los Angeles"]
   photo: mingjia.jpg
+- name: Johnathan Zhang
+  info: Bioinformatics Ph.D. Student (joint with Marina Pasca di Magliano)
+  list_educ:
+    - Combined M.S./B.A. in Plant Biology, Northwestern University
+    - M.S. in Bioinformatics, Boston University
+  photo: Johnathan-Zhang.jpg
 - name: Neil Zhao
   info: Molecular & Cellular Pathology Ph.D. Student (joint with Jonny Sexton)
   email: null
