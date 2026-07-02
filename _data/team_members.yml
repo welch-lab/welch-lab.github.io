@@ -54,6 +54,11 @@
     - M.S. in Applied Data Science, University of Michigan
   name: Liu Liu
   photo: Liu-Liu.jpg
+- name: Xiaorui Liu
+  info: Bioinformatics Master's Student
+  list_educ:
+    - B.S. in Biotechnology, South China Agricultural University
+  photo: Xiaorui-Liu.jpg
 - email: null
   info: DCMB Ph.D. Candidate (joint with Vibha Lama)
   list_educ:
