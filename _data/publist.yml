@@ -1,3 +1,10 @@
+- title: "Amortized Bayesian Causal Discovery of Extended Factor Graphs"
+  authors: Gu Y, Song Y, Qian W, Wang Y, Welch JD
+  link:
+    url: https://arxiv.org/abs/2607.22934v1
+    display: arXiv 2026
+  highlight: 0
+
 - title: "CytoSignal detects locations and dynamics of ligand-receptor signaling at cellular resolution from spatial transcriptomic data"
   image: cytosignal-ng-cover.png
   authors: Liu J, Manabe H, Qian W, Orikasa S, Ghaemmaghami J, Wang Y, Gu Y, Ka Yan Chu A, Gadhvi GT, Song Y, McClinden P, Lama VN, Ono N, Welch JD
