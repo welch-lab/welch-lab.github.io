@@ -20,7 +20,7 @@
     "eleventy-plugin-gen-favicons": "^1.1.2",
     "eleventy-sass": "^2.2.3",
     "htmlnano": "^2.0.4",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "posthtml": "^0.16.6",
     "terser": "^5.19.4"
   }
