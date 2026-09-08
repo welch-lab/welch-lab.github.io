@@ -1,3 +1,10 @@
+- title: "Coupled Tensor-Tensor Completion Method with Applications in Drug Repurposing"
+  authors: Bagherian M, Hung A, Dinov I, Welch JD
+  link:
+    url: https://arxiv.org/abs/2609.03190
+    display: arXiv 2026
+  highlight: 0
+
 - title: "Amortized Bayesian Causal Discovery of Extended Factor Graphs"
   authors: Gu Y, Song Y, Qian W, Wang Y, Welch JD
   link:
