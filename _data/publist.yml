@@ -1,3 +1,17 @@
+- title: "Genome-scale perturbation signatures from primary human CD4+ T cells improve genetics-based prioritization of immune drug targets"
+  authors: Han AL, Slotnik M, Fox DA, Dhindsa RS, Gudjonsson JE, Kahlenberg JM, Welch JD
+  link:
+    url: https://www.biorxiv.org/content/10.64898/2026.09.12.748195v1
+    display: bioRxiv 2026
+  highlight: 0
+
+- title: "LIGER2: Scalable Single-Cell Integration with On-Disk Datasets"
+  authors: Wang Y, Robbins A, Gadhvi G, Welch JD
+  link:
+    url: https://www.biorxiv.org/content/10.64898/2026.09.08.750130v1
+    display: bioRxiv 2026
+  highlight: 0
+
 - title: "Coupled Tensor-Tensor Completion Method with Applications in Drug Repurposing"
   authors: Bagherian M, Hung A, Dinov I, Welch JD
   link:
