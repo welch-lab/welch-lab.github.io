@@ -33,11 +33,32 @@
     display: arXiv 2026
   highlight: 0
 
+- title: "A dual pronged approach to cancer immune exclusion: tumor-derived LAIR-1 simultaneously drives fibrosis and blocks immune recruitment in glioma"
+  authors: Varela ML, Kast H, West M, Rose M, Perez Visnuk D, Springer MV, Raghuram S, Zhu Z, Wang Y, McClellan B, Comba A, Murthy B, Karimi Hafshejani F, AlMunaidi H, Edwards M, Welch JD, Castro MG, Lowenstein PR
+  link:
+    url: https://www.researchsquare.com/article/rs-10472790/v1
+    display: Research Square 2026
+  highlight: 0
+
 - title: "Amortized Bayesian Causal Discovery of Extended Factor Graphs"
   authors: Gu Y, Song Y, Qian W, Wang Y, Welch JD
   link:
     url: https://arxiv.org/abs/2607.22934v1
     display: arXiv 2026
+  highlight: 0
+
+- title: "IL-6 trans-signaling regulates CXCL12 expression in mesenchymal stromal cells and plasma cell niche in rejecting lung allografts"
+  authors: McLinden AP, Tadokoro K, Ibuki Y, Walker NM, Lu L, Ke F, Vittal R, Ranjan A, Mehta MP, Farver CF, Welch JD, Lama VN
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2025.02.16.638532v3
+    display: bioRxiv 2026
+  highlight: 0
+
+- title: "A single-cell atlas identifies oncogenic transcriptional programs and immune escape mechanisms in CTCL"
+  authors: Wang C, Geng X, Abdelrahman S, Fu Y, Kady N, Rauf MA, Hristov A, Tejasvi T, Murga-Zamalloa C, Tsoi L, Welch JD, Fox J, Carty SA, Gudjonsson JE, Wilcox RA
+  link:
+    url: https://ashpublications.org/blood/article/doi/10.1182/blood.2025032507/569434/A-single-cell-atlas-identifies-oncogenic
+    display: Blood 2026
   highlight: 0
 
 - title: "CytoSignal detects locations and dynamics of ligand-receptor signaling at cellular resolution from spatial transcriptomic data"
